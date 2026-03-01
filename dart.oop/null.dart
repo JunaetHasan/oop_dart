@@ -2,7 +2,7 @@ void main (){
 
 
   int? age;
-  int age;
+  //int age;
   String? name;
   double? cgpa;
   age = 12;
